@@ -1,3 +1,5 @@
 # omiimo.github.io
-This is my personal website.
-Hello My name is S. Hossain
+Hello! This is Shabiha Hossain. Currently I am a PhD student of Geography and Sustainability in The University of Tennessee.
+I am kind of a Jon Snow of coding. Still going to try myself eduacate a bit. Thank you visitig my website and for wasting your precious time.
+
+![](https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif)
